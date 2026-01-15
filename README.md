@@ -1,5 +1,8 @@
 Wowechina's Gen 1 Popn' pico just hit all our needs initially, cute but completely functional to play properly so we were just goint o fork that project. We hit some snags and over time the only thing that has remained the same is the size/layout. Over time students will be writing their own firmware and initially I used Gp2040-CE but it feels right to appreciate where we started.
 
+
+
+The MistaPee Ver:
 ![popn1 (1)](https://github.com/user-attachments/assets/ba93bcf3-a9f1-4a0a-ac75-a106108d1709)
 
 
@@ -34,6 +37,8 @@ Features:
 * Configuration save.
 * Customizable through board_defs.h
 
+  
+The original inspiration
   ![20251213_195752](https://github.com/user-attachments/assets/2895e428-a98f-48cd-848a-0667338dd2c3)
 
 go check out the original, it really works for me, play in bed, pizza to one side... bliss
