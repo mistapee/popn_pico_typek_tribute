@@ -1,3 +1,9 @@
+small update - added test 3d print file for a case, i can't actually print it, and some of the sizes are going to cause some printers to struggle, i find places like JLC won't even attempt these. please let me know if you want custom changes to help you out
+
+
+![popnpico_case_preview](https://github.com/user-attachments/assets/c6c8a75e-bbfb-40a6-b0ee-d2563a4d417d)
+
+
 gerbers added - see bottom for ordering and parts infos
 
 Wowechina's Gen 1 Popn' pico just hit all our needs initially, cute but completely functional to play properly so we were just goint o fork that project. We hit some snags and over time the only thing that has remained the same is the size/layout. Over time students will be writing their own firmware and initially I used Gp2040-CE but it feels right to appreciate where we started.
